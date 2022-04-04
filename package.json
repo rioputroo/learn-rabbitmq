@@ -1,0 +1,14 @@
+{
+  "name": "learn-rabbitmq",
+  "version": "1.0.0",
+  "description": "My project to learn rabbitmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rio Trilaksono Putro",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
